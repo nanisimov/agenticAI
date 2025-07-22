@@ -1,0 +1,10 @@
+streamlit>=1.37.0
+openai>=1.72.0
+langchain>=0.3.25
+langchain-openai>=0.3.19
+langchain-core>=0.3.36,<0.4
+mcp[cli]>=1.6.0
+neo4j>=5.26.0
+pydantic>=2.10.1
+langchain_mcp_adapters
+langgraph>=0.4.8
